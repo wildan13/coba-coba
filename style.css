@@ -1,0 +1,27 @@
+body {
+      background-color:RE;
+      font-size:20px;
+      text-align:center;gray
+}
+#wrapper {
+      background-color:red;
+      width:1400px;
+}
+#nama {
+      margin-bottom:1px;
+      padding:5px;
+      background-color:white;}
+#menu {
+      margin-bottom:5px;
+      padding:5px;
+      background-color:white;
+}
+#konten {
+      font-size:28px;
+      margin-bottom:5px;
+      height:600px;
+      float:left;
+      width:1400px;
+      background-color:white;
+
+}
